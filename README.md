@@ -73,6 +73,6 @@ Proyecto para visualizar información geográfica de puentes pertenecientes a la
 
 ## 📫 Contacto
 
-- LinkedIn: [Rafael Bermeo](COLOCA-AQUI-TU-ENLACE)
-- Correo: TU-CORREO-PROFESIONAL
+- LinkedIn: [Rafael Bermeo](https://www.linkedin.com/in/rafael-bermeo/)
+- Correo: rafadevbermeo@gmail.com
 - Ubicación: Guayaquil, Ecuador
